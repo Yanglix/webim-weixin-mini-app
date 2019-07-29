@@ -2,7 +2,7 @@
 小程序聊天demo 借鉴不少人 自己改了一个
 
 
-
+##函数
 initImParams: function (cbOk) {
         var that = this
         // 登录 初始化 im 参数
@@ -46,5 +46,5 @@ initImParams: function (cbOk) {
             userSig: null, // 用户通过 imId 向后台申请的签名值 sig
         },
     },
-    ###app.js 中加入
+    ###app.js 中加入  不会写markdown语法--醉了
 
