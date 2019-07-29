@@ -1,6 +1,8 @@
 # webim-weixin-mini-app
 小程序聊天demo 借鉴不少人 自己改了一个
-#函数
+
+
+
 initImParams: function (cbOk) {
         var that = this
         // 登录 初始化 im 参数
@@ -29,6 +31,9 @@ initImParams: function (cbOk) {
 
         })
     },
+    
+    
+    
     #配置对象
     data: {
         im: {
